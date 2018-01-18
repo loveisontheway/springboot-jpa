@@ -8,7 +8,7 @@ import com.liotw.springboot.jpa.core.Result;
  * 返回消息帮助类
  *
  * @author jiangjialiang on 2017/8/7
- * @version 3.0.0
+ * @version 1.0.0
  */
 public class ResponseMsgUtil {
 

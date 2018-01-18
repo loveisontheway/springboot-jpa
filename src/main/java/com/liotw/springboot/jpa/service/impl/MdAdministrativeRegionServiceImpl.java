@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 行政区划-Service接口实现类（业务处理层）
  * @author jiangjialiang on 2017/12/20
- * @version 3.0.0
+ * @version 1.0.0
  */
 @Service
 public class MdAdministrativeRegionServiceImpl implements MdAdministrativeRegionService {

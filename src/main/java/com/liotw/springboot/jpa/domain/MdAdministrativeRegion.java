@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * 行政区划代码-实体类
  * @author jiangjialiang on 2017/12/20
- * @version 3.0.0
+ * @version 1.0.0
  */
 @Entity
 @Table(appliesTo = "md_administrative_region", comment = "行政区划代码表")

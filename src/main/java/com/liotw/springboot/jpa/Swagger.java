@@ -13,7 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * Swagger是一款RESTful接口的文档在线自动生成+功能测试功能软件
  * @author jiangjialiang on 2017/12/20
- * @version 3.0.0
+ * @version 1.0.0
  */
 @Configuration
 @EnableSwagger2

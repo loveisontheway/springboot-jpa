@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * 行政区划-Controller类
  * @author jiangjialiang on 2017/12/20
- * @version 3.0.0
+ * @version 1.0.0
  */
 @Api(description = "行政区划")
 @RestController
